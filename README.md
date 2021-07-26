@@ -1,3 +1,9 @@
-### Hi there 👋
-https://github-readme-stats.vercel.app/api?username={'forgot09'}   
-https://github-readme-stats.vercel.app/api/top-langs/?username={'forgot09'}
+### Hello There
+
+#### About me
+
+- 🔭 I’m currently working on online
+- 🌱 I’m currently learning python
+- 👯 I’m looking to collaborate on 끝말잇기
+- 📫 How to reach me: come to me
+- ⚡ Fun fact: I'm nojamer because I'm dev
